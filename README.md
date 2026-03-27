@@ -1,6 +1,10 @@
 # mtproto_faketls
 
+
+
 брал код отсюда и переделывал https://github.com/fastbrains13/MTProto-with-fake-tls
+
+Перед запуском устанавливаем apt install docker.io 
 
 ```bash
 #!/bin/bash
