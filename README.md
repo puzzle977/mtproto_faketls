@@ -1,5 +1,5 @@
 # mtproto_faketls
-
+```bash
 #!/bin/bash
 
 CONTAINER_NAME="mtproto-proxy"
@@ -49,3 +49,4 @@ else
   echo "❌ Ошибка запуска"
   docker logs $CONTAINER_NAME
 fi
+```
