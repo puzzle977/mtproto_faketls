@@ -1,4 +1,7 @@
 # mtproto_faketls
+
+брал код отсюда и переделывал https://github.com/fastbrains13/MTProto-with-fake-tls
+
 ```bash
 #!/bin/bash
 
