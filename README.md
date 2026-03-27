@@ -6,6 +6,8 @@
 
 Перед запуском устанавливаем apt install docker.io 
 
+Протестировано на ubuntu 22
+
 ```bash
 #!/bin/bash
 
