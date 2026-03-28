@@ -1,10 +1,9 @@
-# mtproto_faketls
+# mtproto_faketls вайбкод
 
 
+Перед запуском устанавливаем apt install docker.io
 
-брал код отсюда и переделывал https://github.com/fastbrains13/MTProto-with-fake-tls
-
-Перед запуском устанавливаем apt install docker.io 
+bash <(curl -Ls https://raw.githubusercontent.com/puzzle977/mtproto_faketls/refs/heads/main/start-mtproxy.sh)
 
 Протестировано на ubuntu 22
 
