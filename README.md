@@ -8,7 +8,7 @@
 
 sudo bash <(curl -Ls https://raw.githubusercontent.com/puzzle977/mtproto_faketls/refs/heads/main/start-mtproxy.sh)
 
-chmod +x mtproto-manager.sh
+chmod +x start-mtproxy.sh
 
 Далее скрипт можно запускать командой:
 sudo ./mtproto-manager.sh
