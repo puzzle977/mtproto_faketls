@@ -6,7 +6,7 @@
 
 Перед запуском устанавливаем выполняя команду apt install docker.io
 
-sudo bash <(curl -Ls https://raw.githubusercontent.com/puzzle977/mtproto_faketls/refs/heads/main/start-mtproxy.sh)
+sudo bash <(curl -Ls - O https://raw.githubusercontent.com/puzzle977/mtproto_faketls/refs/heads/main/start-mtproxy.sh)
 
 chmod +x start-mtproxy.sh
 
