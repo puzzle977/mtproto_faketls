@@ -1,6 +1,10 @@
 # mtproto_faketls вайбкод
 
-Перед запуском устанавливаем выпоняя команду apt install docker.io
+Для установки арендуем vps сервер с минимальным конфигом, ставил на timeweb cloud. (реф ссылка https://timeweb.cloud/?i=126855)
+
+Логинимся по ssh на арендованный сервер.
+
+Перед запуском устанавливаем выполняя команду apt install docker.io
 
 sudo bash <(curl -Ls https://raw.githubusercontent.com/puzzle977/mtproto_faketls/refs/heads/main/start-mtproxy.sh)
 
