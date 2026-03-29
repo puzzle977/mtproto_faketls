@@ -2,11 +2,11 @@
 
 Перед запуском устанавливаем выпоняя команду apt install docker.io
 
-bash <(curl -Ls https://raw.githubusercontent.com/puzzle977/mtproto_faketls/refs/heads/main/start-mtproxy.sh)
+sudo bash <(curl -Ls https://raw.githubusercontent.com/puzzle977/mtproto_faketls/refs/heads/main/start-mtproxy.sh)
 
 chmod +x mtproto-manager.sh
 
-Далее код запускаем командой
+Далее скрипт можно запускать командой:
 sudo ./mtproto-manager.sh
 
 
