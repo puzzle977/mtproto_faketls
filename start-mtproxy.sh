@@ -5,7 +5,7 @@ set -u
 BASE_DIR="/opt/mtproto-manager"
 PROXY_IMAGE="telegrammessenger/proxy"
 CONTAINER_PREFIX="mtproto-proxy"
-DEFAULT_PORT_START=8443
+DEFAULT_PORT_START=443
 
 mkdir -p "$BASE_DIR"
 
