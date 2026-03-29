@@ -11,7 +11,7 @@ sudo bash <(curl -Ls https://raw.githubusercontent.com/puzzle977/mtproto_faketls
 chmod +x start-mtproxy.sh
 
 Далее скрипт можно запускать командой:
-sudo ./mtproto-manager.sh
+sudo ./start-mtproxy.sh
 
 
 Инструкция по пунктам меню:
