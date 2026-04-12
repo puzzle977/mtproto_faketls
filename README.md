@@ -1,4 +1,4 @@
-# mtproto вайбкод
+# mtproto fake tls вайбкод
 
 Для установки арендуем vps сервер с минимальным конфигом, ставил на timeweb cloud. (реф ссылка https://timeweb.cloud/?i=126855)
 
